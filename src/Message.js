@@ -15,4 +15,4 @@ function Message({message, timestamp, user, userImage}) {
     );
 }
 
-export default Message
+export default Message;

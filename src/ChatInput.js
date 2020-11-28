@@ -22,6 +22,7 @@ function ChatInput({channelName, channelId}) {
         });
         
         }
+        setInput('');
     };
 
 
