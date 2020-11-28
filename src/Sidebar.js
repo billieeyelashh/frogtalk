@@ -46,18 +46,13 @@ function Sidebar() {
                 
                 
             </div>
-            <SidebarOption Icon={InsertCommentIcon} title= "Threads" />
-            <SidebarOption Icon={InboxIcon} title ="Mentions and Reactions" />
-            <SidebarOption Icon={DraftsIcon} title ="Saved Items" />
-            <SidebarOption Icon={BookmarkBorderIcon} title ="Channels" />
-            <SidebarOption Icon={PeopleAltIcon} title ="People" />
-            <SidebarOption Icon={AppsIcon} title ="Apps" />
-            <SidebarOption Icon={FileCopyIcon} title ="File Browsing" />
-            <SidebarOption Icon={ExpandLessIcon} title ="Show less" />
+           
             <hr />
             <SidebarOption Icon={ExpandMoreIcon} title ="Channels" />
             <hr />
             <SidebarOption Icon={AddIcon} addChannelOption title ="Add Channel" />
+
+            <SidebarOption Icon= {AddIcon} title ="Add VoiceChannel" />
 
             {/* Connect to db*/}
             {/*SidebarOption .. /> */}

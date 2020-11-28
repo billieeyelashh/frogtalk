@@ -28,7 +28,14 @@ function SidebarOption({Icon, title, id, addChannelOption}) {
         }
 
     };
-    
+   
+    const addVoiceChannel = () => {
+        const channelName = prompt('Please enter the channel name')
+
+        
+    }    
+
+
     
     return (
     <div className="sidebarOption" onClick={addChannelOption ? addChannel : selectChannel}>
