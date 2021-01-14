@@ -3,10 +3,22 @@ Simple chat app with functioning chat and Google authentication powered by Googl
 
 ## How to deploy 
 
+    git clone https://github.com/AdrianBeckDev/frogtalk.git
+    
+    cd frogtalk
+    
+# configure Firebase
+- Creating an Account on Google Firebase an create a Google Firestore database 
 
+rooms--messages
 
+# deploy application
 
-
+    firebase init 
+    
+    firebase login
+    
+    firebase deploy 
 
 
 ## TO-DO:
