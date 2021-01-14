@@ -1,8 +1,17 @@
-Frogtalk with functioning chats and Google Auth
+## Frogtalk 
+Simple chat app with functioning chat and Google authentication powered by Google Firebase 
 
-TO-DO:
+## How to deploy 
 
-Add private messaging
-add voice and video call function
-add to-do list
-add rights via frog ranking system
+
+
+
+
+
+
+## TO-DO:
+
+- Add private messaging
+- add voice and video call function
+- add to-do list
+- add rights via frog ranking system
