@@ -3,7 +3,7 @@
 
 Simple chat app with functioning chat and Google authentication powered by Google Firebase 
 ### Update
-Seems only to work with Node js versions lower then 10.0.0
+Build fails with  Node Version higher then 10
 ## How to deploy 
 
     git clone https://github.com/AdrianBeckDev/frogtalk.git
