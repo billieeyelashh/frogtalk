@@ -2,7 +2,8 @@
 [![Node.js CI](https://github.com/ak3rmit/frogtalk/actions/workflows/node.js.yml/badge.svg)](https://github.com/ak3rmit/frogtalk/actions/workflows/node.js.yml)
 
 Simple chat app with functioning chat and Google authentication powered by Google Firebase 
-
+### Update
+Seems only to work with Node js versions lower then 10.0.0
 ## How to deploy 
 
     git clone https://github.com/AdrianBeckDev/frogtalk.git
