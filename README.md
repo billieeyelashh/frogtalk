@@ -1,4 +1,4 @@
-## Frogtalk :frog:
+## Frogtalk :frog: :speaking_head:	
 [![Node.js CI](https://github.com/ak3rmit/frogtalk/actions/workflows/node.js.yml/badge.svg)](https://github.com/ak3rmit/frogtalk/actions/workflows/node.js.yml)
 
 Simple chat app with functioning chat and Google authentication powered by Google Firebase 
