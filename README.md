@@ -10,12 +10,12 @@ Build fails with  Node Version higher then 10
     
     cd frogtalk
     
-# configure Firebase
+## Configure Firebase
 - Creating an Account on Google Firebase an create a Google Firestore database 
 
 rooms--messages
 
-# deploy application
+## Deploy application
 
     firebase init 
     
