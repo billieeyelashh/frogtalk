@@ -1,5 +1,6 @@
 [![CircleCI](https://circleci.com/gh/lona9a/frogtalk.svg?style=shield)](https://circleci.com/gh/lona9a/frogtalk)
 [![Node.js CI](https://github.com/ak3rmit/frogtalk/actions/workflows/node.js.yml/badge.svg)](https://github.com/ak3rmit/frogtalk/actions/workflows/node.js.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Frogtalk :frog: :speaking_head:	
 Simple chat app with functioning chat and Google authentication powered by Google Firebase 
